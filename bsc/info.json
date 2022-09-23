@@ -1,11 +1,11 @@
 {
- "name": "BTCCToken",
- "website": "https://www.gulfstreammine.com",
- "description": "A leading multi-chain wallet that supports BTC, ETH, BSC, HECO, TRON, EOS, OKExChain, HSC and so on.",
- "explorer": "https://bscscan.com/token/0xDCEE2E492460b4E2Eff0BA779a8Db2c0bd270d40",
+ "name": "Pyramid Management Trading",
+ "website": "https://www.pmtwallets.com/",
+ "description": "Use your Bitcoin. Anywhere Invest, earn and pay with BTC on any blockchain with interBTC",
+ "explorer": "https://bscscan.com/address/0xB94DB9BBcab45C3247d1C21BA50723AC9cA5995f",
  "type": "BEP20",
- "symbol": "BTCC",
+ "symbol": "PMT",
  "decimals": 18,
  "status": "active",
- "id": "0xDCEE2E492460b4E2Eff0BA779a8Db2c0bd270d40"
+ "id": "0xB94DB9BBcab45C3247d1C21BA50723AC9cA5995f"
 }
